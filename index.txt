@@ -1,3 +1,2 @@
-My Bug 1
 My feature0
 My feature 1
